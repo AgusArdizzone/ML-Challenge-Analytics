@@ -12,3 +12,10 @@ Para acceder al informe y poder interactuar con el mismo, entre al siguiente enl
 
 ![Vista Previa](./resources/preview_dashboard.png)
 
+#### Fuentes
+A continuacion, se listan las fuentes utilizadas para el informe:
+
+- [World Bank | Argentina](https://data.worldbank.org/country/argentina) 
+- [Datos Abiertos ENACOM](https://indicadores.enacom.gob.ar/datos-abiertos-servicios)
+
+Para mejor disponibilidad de los datos utilizados, los archivos utilizados se pueden encontrar dentro de la carpeta `sources`.
